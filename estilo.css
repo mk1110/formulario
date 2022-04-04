@@ -1,0 +1,23 @@
+header {
+  width: 100%;
+  height: 10%;
+  background-color: silver;
+}
+input {
+  text-align: justify;
+  border-style: initial;
+  background-color: rgb(126, 197, 230);
+}
+footer {
+  background-color: silver;
+}
+div {
+  background-color: rgb(190, 188, 188);
+}
+h1 {
+  background-color: rgb(126, 197, 230);
+  font-family: sans-serif;
+}
+p {
+  font-size: 1.3em;
+}
